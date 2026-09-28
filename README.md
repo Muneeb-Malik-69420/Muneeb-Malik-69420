@@ -52,8 +52,7 @@ SaaS platform for generating, managing, and sharing receipts and invoices throug
 
 ## Connect
 
-[**Portfolio**](https://portfolio.muneebhassan.workers.dev) · [**LinkedIn**](https://www.linkedin.com/in/muneeb-hassan-6a2459310/)) · [**GitHub**](https://github.com/Muneeb-Malik-69420) 
-[**Portfolio**](https://portfolio.muneebhassan.workers.dev) · [**LinkedIn**]() · [**GitHub**](https://github.com/Muneeb-Malik-69420) · [**Upwork**](YOUR_UPWORK_URL)
+[**Portfolio**](https://portfolio.muneebhassan.workers.dev) · [**LinkedIn**](https://www.linkedin.com/in/muneeb-hassan-6a2459310/)
 
 ---
 
